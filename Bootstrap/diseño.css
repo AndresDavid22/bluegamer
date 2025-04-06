@@ -1,0 +1,51 @@
+html body {
+    background-color: #271716;
+    color: #00FFFF;
+   
+  }
+
+
+.logo{
+    height: 100%;
+    width: 90px;
+    height: left;
+    border: 2px solid #0000ff; /* Bordes de color azul neón */
+     box-shadow: 0 0 10px #5100ff, 0 0 20px #00ff88, 0 0 30px #00FFFF; /* Efecto de resplandor */
+}
+.carousel-inner{
+    height: 600px;
+    margin-top: 20px;
+    width: 100px;
+    border: 6px solid #0000ff; /* Bordes de color azul neón */
+     box-shadow: 0 0 10px #5100ff, 0 0 20px #00ff88, 0 0 30px #00FFFF; /* Efecto de resplandor */
+}
+.carousel-item{
+    height: 500px;
+    width: 100px;
+}
+
+header{
+     background-color: #271716;
+     border: 6px solid #0000ff; /* Bordes de color azul neón */
+     box-shadow: 0 0 10px #5100ff, 0 0 20px #00ff88, 0 0 30px #00FFFF; /* Efecto de resplandor */
+ }
+.bg-primary{
+background-color: #271716;
+}
+html footer{
+    background-color: #271716;
+
+}
+
+.d-block{
+    height: 600px;
+    width: 900px;
+
+}
+.imagendelogo{
+    margin-top: 2px;
+    margin-left: 18px;
+}
+.nostros{
+    margin-left: 20px;
+}
